@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        int bienY = 1;
+        int bienX = 9;
+        System.out.println( "Hello World! " + "9 + 1 = " + (bienX+bienY));
     }
 }
