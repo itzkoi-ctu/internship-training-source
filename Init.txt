@@ -1,0 +1,2 @@
+refs: #27732: [Training][Nguyen Tran Quang Long] GIT
++ Initial project
