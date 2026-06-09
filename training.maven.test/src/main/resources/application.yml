@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: training.maven.test
+
+server:
+  port: 2789

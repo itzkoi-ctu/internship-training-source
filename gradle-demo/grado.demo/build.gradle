@@ -22,3 +22,8 @@ application {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
+plugins {
+    id 'java'
+    id 'application'
+}
